@@ -6,14 +6,14 @@
 Paragraph here.
 
 <!-- @COMMENT {1CA} -->
-> **user** : *2019-06-25 11:44*
+> **user.name** : *2019-06-25 11:44*
 >
 > Formatted comment here.
 
 <!-- @COMMENT {1CA} -->
-> **user** : *2019-06-25 11:44*
+> **jeffrey.day** : *2019-06-25 11:44*
 >
-> Formatted comment here.
+> Here is another comment!
 
 <!-- @SECTION {1SB} -->
 Another section here.
