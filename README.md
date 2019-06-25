@@ -21,5 +21,7 @@ Paragraph here.
   >
   > Here is another comment!
 
+---
+
 <!-- @SECTION {1SB} -->
 Another section here.
