@@ -3,6 +3,8 @@
 # Document Example
 
 <!-- @SECTION {1SA} -->
+## Subheading
+
 Paragraph here.
 
 <!-- @COMMENT {1CA} -->
