@@ -5,7 +5,7 @@
 <!-- @SECTION {1SA} -->
 ## Subheading
 
-Paragraph here. Testing a [linkSample](/phroun/doc-example/linkSample.md)
+Paragraph here. Testing a [linkSample](linkSample.md)
 
 <!-- @COMMENT HEADER -->
 ---
